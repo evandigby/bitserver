@@ -1,0 +1,18 @@
+{
+  "name": "bitserver",
+  "version": "0.0.1",
+  "description": "hack ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@serialport/parser-readline": "^2.0.2",
+    "@types/serialport": "^7.0.2",
+    "readline": "^1.3.0",
+    "serialport": "^7.1.4",
+    "typescript": "^3.3.3333"
+  }
+}
